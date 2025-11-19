@@ -2,6 +2,7 @@ name: flutter_responsive_ui
 description: "A lightweight Bootstrap-like responsive grid system for Flutter with 12-column layout, breakpoints, rows, and columns."
 version: 1.0.0
 homepage: https://github.com/manojprajapati1999/flutter_responsive_ui
+repository: https://github.com/manojprajapati1999/flutter_responsive_ui
 
 environment:
   sdk: ^3.8.1
@@ -56,3 +57,4 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/to/font-from-package
+
