@@ -14,13 +14,13 @@ Add this to your **pubspec.yaml**:
 
 ```yaml
 dependencies:
-flutter_responsive_ui: ^1.0.0
+responsive_bootstrap_ui: ^1.0.4
 ```
 
 ---
 ## 🔧 Import
 ```dart
-import 'package:flutter_responsive_ui/flutter_responsive_ui.dart';
+import 'package:responsive_bootstrap_ui/responsive_bootstrap_ui.dart';
 ```
 
 ---
